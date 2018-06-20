@@ -18,6 +18,7 @@ class MetasploitModule < Msf::Auxiliary
 			'References'     =>
 				[
 					[ 'CVE', '2018-10956' ],
+					[ 'URL', 'https://labs.nettitude.com/blog/cve-2018-10956-unauthenticated-privileged-directory-traversal-in-ipconfigure-orchid-core-vms/' ],
 					[ 'URL', 'http://ipconfigure.com/products/orchid-archives' ]
 				],
 			'DisclosureDate' => 'May 7, 2018'))
